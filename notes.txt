@@ -1,0 +1,19 @@
+notes Interaction:
+- Breedte:
+   - hoeveel functinaliteit is aanwezig
+
+- Diepte:
+   - Mate waarin functies 'echt' werken
+
+- Vorm:
+   - Mate waarin visuele aspecten accuraat het bedoelde uiterlijk representeren.
+
+- Interactie:
+opdracht:
+paper prototype maken.
+
+
+bepaal je testdoel.
+kies de juiste test.
+bereid de test voor.
+voer de test uit.

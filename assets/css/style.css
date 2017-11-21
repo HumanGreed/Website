@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+* {
+   margin: 0;
+}
+
+/* BODY HOMEPAGE */
+
+#Index {
+   padding: 20px;
+   display: grid;
+   font-family: Helvetica;
+}
+
+
+
+/*   TITLE  */
+
+.title h1 {
+   font-size: 35px;
+   text-align: center;
+}
+
+.basicShit h2 {
+   font-size: 15px;
+}
+
+/* DESKTOP VERSION */
+
+@media (min-width : 1024px) {
+
+   body {
+      grid-template-columns: auto;
+   }
+}
